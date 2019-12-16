@@ -1,6 +1,6 @@
 {
   "name": "random-number-vc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test package, don't use. javascript only, not for typescript",
   "main": "index.js",
   "scripts": {
